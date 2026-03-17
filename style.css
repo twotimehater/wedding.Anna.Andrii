@@ -31,19 +31,28 @@ span {
 border-bottom:4px dotted darkred;
 }
 .photo1 {
-border:10px double black;
-padding:5px;
-border-radius:30px;
 width:502px;
 margin-left:auto;
 margin-right:auto;
 }
 .photo2 {
-  border: 10px double black;
-  padding: 5px;
-  border-radius: 30px;
   width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+main a {
+text-decoration:none;
+color:black;
+font-size:45px;
+
+}
+h2 {
+
+}
+.left {
+text-align:left;
+}
+.photo1 img {
+border-radius:6px;
 }
