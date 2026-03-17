@@ -6,7 +6,9 @@ text-align:center;
 }
 .eucalyptus {
 position:absolute;
-left:80px
+left:100px;
+top:60px;
+
 }
 .eucalyptus2 {
 position:absolute;
@@ -16,14 +18,16 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-left:0px;
+right:180px;
+top:1370px;
+rotate:90deg;
 }
 .eucalyptus4 {
 position:absolute;
 }
 h3 {
-font-size:40px;
-font-family:arial;
+font-size:25px;
+font-family:'Visby', sans-serif;
 color:#171612;
 text-align:center;
 }
@@ -35,24 +39,58 @@ width:502px;
 margin-left:auto;
 margin-right:auto;
 }
-.photo2 {
-  width: 600px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 main a {
 text-decoration:none;
 color:black;
-font-size:45px;
-
+font-size:20px;
+}
+main a:focus {
+color:gray;
 }
 h2 {
-
-}
-.left {
-text-align:left;
+font-family:'Visby', sans-serif;
+text-align:center;
+font-size:50px;
 }
 .photo1 img {
 border-radius:6px;
+}
+.calendar {
+text-align:center;
+}
+.small {
+font-size:20px;
+}
+.menu1 {
+position:fixed;
+left:-230px;
+border:5px double black;
+border-radius:10px;
+padding:30px;
+font-size:40px;
+background-color:white;
+text-decoration:none;
+font-family:'Visby', sans-serif;
+color:black;
+}
+.menu1:hover {
+left:-5px;
+transition:1s;
+}
+.menu2 {
+margin-top:150px;
+position:fixed;
+left:-192px;
+border:5px double black;
+border-radius:10px;
+padding:30px;
+font-size:40px;
+background-color:white;
+text-decoration:none;
+font-family:'Visby', sans-serif;
+color:black;
+}
+.menu2:hover {
+left:-5px;
+transition:0.8s;
 }
