@@ -18,8 +18,8 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:180px;
-top:1370px;
+right:285px;
+top:1320px;
 rotate:90deg;
 }
 .eucalyptus4 {
@@ -63,7 +63,7 @@ font-size:20px;
 }
 .menu1 {
 position:fixed;
-left:-230px;
+left:-200px;
 border:5px double black;
 border-radius:10px;
 padding:30px;
@@ -80,7 +80,7 @@ transition:1s;
 .menu2 {
 margin-top:150px;
 position:fixed;
-left:-192px;
+left:-162px;
 border:5px double black;
 border-radius:10px;
 padding:30px;
@@ -94,3 +94,4 @@ color:black;
 left:-5px;
 transition:0.8s;
 }
+
