@@ -6,17 +6,19 @@ text-align:center;
 }
 .eucalyptus {
 position:absolute;
-bottom:320px;
+left:80px
 }
 .eucalyptus2 {
 position:absolute;
-bottom:350px;
-left:550px;
+right:125px;
 scale:120%;
+top:50px;
 }
 .eucalyptus3 {
-transform:rotate(20deg);
-margin-top:80px;
+
+}
+.eucalyptus4 {
+
 }
 h3 {
 font-family:arial;
@@ -27,7 +29,11 @@ span {
 color:gray;
 }
 .photo1 {
-text-align:center;
 border:10px double black;
+padding:5px;
 border-radius:30px;
+width:210px;
+margin-left:auto;
+margin-right:auto;
 }
+
