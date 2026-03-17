@@ -1,0 +1,33 @@
+body {
+background-color:#f6f5f2;
+}
+.weddinginvite {
+text-align:center;
+}
+.eucalyptus {
+position:absolute;
+bottom:320px;
+}
+.eucalyptus2 {
+position:absolute;
+bottom:350px;
+left:550px;
+scale:120%;
+}
+.eucalyptus3 {
+transform:rotate(20deg);
+margin-top:80px;
+}
+h3 {
+font-family:arial;
+color:#171612;
+text-align:center;
+}
+span {
+color:gray;
+}
+.photo1 {
+text-align:center;
+border:10px double black;
+border-radius:30px;
+}
