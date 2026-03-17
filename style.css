@@ -15,10 +15,11 @@ scale:120%;
 top:50px;
 }
 .eucalyptus3 {
-
+position:absolute;
+left:0px;
 }
 .eucalyptus4 {
-
+position:absolute;
 }
 h3 {
 font-size:40px;
@@ -36,7 +37,13 @@ border-radius:30px;
 width:502px;
 margin-left:auto;
 margin-right:auto;
-};
+}
 .photo2 {
-
+  border: 10px double black;
+  padding: 5px;
+  border-radius: 30px;
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
