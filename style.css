@@ -21,21 +21,22 @@ top:50px;
 
 }
 h3 {
+font-size:40px;
 font-family:arial;
 color:#171612;
 text-align:center;
 }
 span {
-color:gray;
+border-bottom:4px dotted darkred;
 }
 .photo1 {
 border:10px double black;
 padding:5px;
 border-radius:30px;
-width:210px;
+width:502px;
 margin-left:auto;
 margin-right:auto;
 };
-margin-left:auto;
-margin-right:auto;
+.photo2 {
+
 }
