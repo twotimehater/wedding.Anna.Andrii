@@ -18,8 +18,8 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:290px;
-top:1310px;
+right:200px;
+top:1100px;
 rotate:90deg;
 }
 .eucalyptus4 {
@@ -36,7 +36,7 @@ span {
 border-bottom:4px dotted darkred;
 }
 .photo1 {
-width:502px;
+width:600px;
 margin-left:auto;
 margin-right:auto;
 }
@@ -64,6 +64,7 @@ font-size:20px;
 }
 .menu1 {
 position:fixed;
+z-index:67;
 left:-230px;
 border:5px double black;
 border-radius:10px;
@@ -79,8 +80,9 @@ left:-5px;
 transition:1s;
 }
 .menu2 {
-margin-top:150px;
+margin-top:140px;
 position:fixed;
+z-index:67;
 left:-185px;
 border:5px double black;
 border-radius:10px;
@@ -92,6 +94,24 @@ font-family:'Visby', sans-serif;
 color:black;
 }
 .menu2:hover {
+left:-5px;
+transition:0.8s;
+}
+.menu3 {
+margin-top:280px;
+position:fixed;
+z-index:67;
+left:-225px;
+border:5px double black;
+border-radius:10px;
+padding:30px;
+font-size:40px;
+background-color:white;
+text-decoration:none;
+font-family:'Visby', sans-serif;
+color:black;
+}
+.menu3:hover {
 left:-5px;
 transition:0.8s;
 }
@@ -113,4 +133,33 @@ top:1890px;
 }
 .twentytwo {
 top:1972px;
+}
+.heart1 {
+margin-left:570px;
+}
+.small2 {
+max-width:650px;
+font-size:25px;
+margin-left:auto;
+margin-right:auto;
+}
+.eucalyptus5 {
+position:absolute;
+left:620px;
+top:2000px;
+width:150px;
+}
+.final {
+position:relative;
+z-index:2;
+margin-top:80px;
+font-size:30px;
+max-width:500px;
+margin-left:auto;
+margin-right:auto;
+}
+.heart2 {
+position:absolute;
+left:135px;
+top:2210px;
 }
