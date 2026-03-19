@@ -34,7 +34,7 @@ color:#171612;
 text-align:center;
 animation:appear 2s 1;
 animation-timeline: view();
-animation-range: entry 0% cover 60%;
+animation-range: entry 0% cover 40%;
 }
 span {
 border-bottom:4px dotted darkred;
@@ -58,7 +58,7 @@ text-align:center;
 font-size:50px;
 animation:appear 2s 1;
 animation-timeline: view();
-animation-range: entry 0% cover 60%;
+animation-range: entry 0% cover 40%;
 }
 .photo1 img {
 border-radius:6px;
@@ -131,30 +131,21 @@ font-size:25px;
 position:absolute;
 top:1719px;
 left:180px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 40%;
 }
 .thirteen {
 top:1452px;
-animation:appear 2s 1;
-animation-timeline: view();
-animation-range: entry 0% cover 60%;
 }
 .fourteen {
 top:1536px;
-animation:appear 2s 1;
-animation-timeline: view();
-animation-range: entry 0% cover 60%;
 }
 .fifteen {
 top:1621px;
-animation:appear 2s 1;
-animation-timeline: view();
-animation-range: entry 0% cover 60%;
 }
 .twentytwo {
 top:1705px;
-animation:appear 2s 1;
-animation-timeline: view();
-animation-range: entry 0% cover 60%;
 }
 .heart1 {
 margin-left:570px;
@@ -196,5 +187,5 @@ opacity:1;
 img {
 animation:appear 2s 1;
 animation-timeline: view();
-animation-range: entry 0% cover 60%;
+animation-range: entry 0% cover 40%;
 }
