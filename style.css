@@ -1,3 +1,4 @@
+
 body {
 background-color:#f6f5f2;
 }
@@ -31,6 +32,9 @@ font-size:25px;
 font-family:'Visby', sans-serif;
 color:#171612;
 text-align:center;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 span {
 border-bottom:4px dotted darkred;
@@ -52,6 +56,9 @@ h2 {
 font-family:'Visby', sans-serif;
 text-align:center;
 font-size:50px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 .photo1 img {
 border-radius:6px;
@@ -127,15 +134,27 @@ left:180px;
 }
 .thirteen {
 top:1452px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 .fourteen {
 top:1536px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 .fifteen {
 top:1621px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 .twentytwo {
 top:1705px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
 .heart1 {
 margin-left:570px;
@@ -165,4 +184,17 @@ margin-right:auto;
 position:absolute;
 left:235px;
 top:2290px;
+}
+@keyframes appear {
+0%{
+opacity:0;
+}
+100% {
+opacity:1;
+}
+}
+img {
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 60%;
 }
