@@ -170,11 +170,13 @@ font-size:30px;
 max-width:500px;
 margin-left:auto;
 margin-right:auto;
+animation:none;
 }
 .heart2 {
 position:absolute;
 left:235px;
 top:2290px;
+animation:none;
 }
 @keyframes appear {
 0%{
