@@ -19,13 +19,20 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:200px;
-top:1100px;
+right:300px;
+top:1650px;
 rotate:90deg;
 }
 .eucalyptus4 {
 margin-top:40px;
 text-align:center;
+}
+.eucalyptus5 {
+position:absolute;
+left:520px;
+top:3490px;
+width:250px;
+z-index:-1;
 }
 h3 {
 font-size:25px;
@@ -43,6 +50,11 @@ border-bottom:4px dotted darkred;
 width:600px;
 margin-left:auto;
 margin-right:auto;
+position:relative;
+left:50px;
+}
+.photo2 {
+text-align:center;
 }
 main a {
 text-decoration:none;
@@ -69,58 +81,11 @@ text-align:center;
 .small {
 font-size:20px;
 }
-.menu1 {
-position:fixed;
-z-index:67;
-left:-230px;
-border:5px double black;
-border-radius:10px;
-padding:30px;
-font-size:40px;
-background-color:white;
-text-decoration:none;
-font-family:'Visby', sans-serif;
-color:black;
-}
-.menu1:hover {
-left:-5px;
-transition:1s;
-}
-.menu2 {
-margin-top:140px;
-position:fixed;
-z-index:67;
-left:-185px;
-border:5px double black;
-border-radius:10px;
-padding:30px;
-font-size:40px;
-background-color:white;
-text-decoration:none;
-font-family:'Visby', sans-serif;
-color:black;
-}
-.menu2:hover {
-left:-5px;
-transition:0.8s;
-}
-.menu3 {
-margin-top:280px;
-position:fixed;
-z-index:67;
-left:-225px;
-border:5px double black;
-border-radius:10px;
-padding:30px;
-font-size:40px;
-background-color:white;
-text-decoration:none;
-font-family:'Visby', sans-serif;
-color:black;
-}
-.menu3:hover {
-left:-5px;
-transition:0.8s;
+.small2 {
+max-width:850px;
+font-size:30px;
+margin-left:auto;
+margin-right:auto;
 }
 .eucalyptustime {
 margin-left:110px;
@@ -136,31 +101,19 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:1452px;
+top:2055px;
 }
 .fourteen {
-top:1536px;
+top:2146px;
 }
 .fifteen {
-top:1621px;
+top:2237px;
 }
 .twentytwo {
-top:1705px;
+top:2315px;
 }
 .heart1 {
 margin-left:570px;
-}
-.small2 {
-max-width:650px;
-font-size:25px;
-margin-left:auto;
-margin-right:auto;
-}
-.eucalyptus5 {
-position:absolute;
-left:620px;
-top:1960px;
-width:150px;
 }
 .final {
 position:relative;
@@ -175,7 +128,7 @@ animation:none;
 .heart2 {
 position:absolute;
 left:235px;
-top:2290px;
+top:4550px;
 animation:none;
 }
 @keyframes appear {
