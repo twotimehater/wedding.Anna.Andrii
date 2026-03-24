@@ -19,9 +19,9 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:300px;
-top:1650px;
-rotate:90deg;
+right:170px;
+top:2120px;
+z-index:-1;
 }
 .eucalyptus4 {
 margin-top:40px;
@@ -106,7 +106,7 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:3345px;
+top:3045px;
 }
 .fourteen {
 top:3129px;
@@ -151,4 +151,7 @@ animation-range: entry 0% cover 40%;
 }
 b {
 font-family:verdana;
+}
+.locationator {
+margin-top:-10px;
 }
