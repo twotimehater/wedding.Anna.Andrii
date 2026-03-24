@@ -93,7 +93,8 @@ margin-left:auto;
 margin-right:auto;
 }
 .eucalyptustime {
-margin-left:110px;
+margin-left:200px;
+margin-top:-50px;
 }
 h4 {
 font-family:'Visby', sans-serif;
@@ -106,16 +107,20 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:3045px;
+top:2662px;
+margin-left:100px;
 }
 .fourteen {
-top:3129px;
+top:2753px;
+margin-left:100px;
 }
 .fifteen {
-top:3215px;
+top:2845px;
+margin-left:100px;
 }
 .twentytwo {
-top:3297px;
+top:2935px;
+margin-left:100px;
 }
 .heart1 {
 margin-left:570px;
@@ -154,4 +159,7 @@ font-family:verdana;
 }
 .locationator {
 margin-top:-10px;
+}
+.timing {
+margin-top:30px;
 }
