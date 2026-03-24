@@ -56,7 +56,7 @@ margin-right:20px;
 }
 .photo2 {
 text-align:center;
-
+margin-top:40px;
 }
 main a {
 text-decoration:none;
@@ -107,23 +107,28 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:2662px;
+font-size:30px;
+top:2654px;
 margin-left:100px;
 }
 .fourteen {
-top:2753px;
+font-size:30px;
+top:2743px;
 margin-left:100px;
 }
 .fifteen {
-top:2845px;
+font-size:30px;
+top:2835px;
 margin-left:100px;
 }
 .twentytwo {
-top:2935px;
+font-size:30px;
+top:2925px;
 margin-left:100px;
 }
 .heart1 {
-margin-left:570px;
+margin-left:660px;
+margin-top:-20px;
 }
 .final {
 position:relative;
