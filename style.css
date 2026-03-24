@@ -61,15 +61,16 @@ text-align:center;
 main a {
 text-decoration:none;
 color:black;
-font-size:20px;
+font-size:34px;
 }
 main a:focus {
 color:gray;
 }
 h2 {
 font-family:'Visby', sans-serif;
+    letter-spacing:5px;
 text-align:center;
-font-size:50px;
+font-size:80px;
 animation:appear 2s 1;
 animation-timeline: view();
 animation-range: entry 0% cover 40%;
@@ -79,9 +80,10 @@ border-radius:6px;
 }
 .calendar {
 text-align:center;
+margin-top:-30px;
 }
 .small {
-font-size:20px;
+font-size:34px;
 }
 .small2 {
 margin-top:-30px;
@@ -104,16 +106,16 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:2045px;
+top:3345px;
 }
 .fourteen {
-top:2129px;
+top:3129px;
 }
 .fifteen {
-top:2215px;
+top:3215px;
 }
 .twentytwo {
-top:2297px;
+top:3297px;
 }
 .heart1 {
 margin-left:570px;
