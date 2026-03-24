@@ -1,4 +1,3 @@
-
 body {
 background-color:#f6f5f2;
 }
@@ -30,7 +29,7 @@ text-align:center;
 .eucalyptus5 {
 position:absolute;
 left:520px;
-top:3490px;
+top:3425px;
 width:250px;
 z-index:-1;
 }
@@ -101,16 +100,16 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-top:2055px;
+top:2045px;
 }
 .fourteen {
-top:2146px;
+top:2129px;
 }
 .fifteen {
-top:2237px;
+top:2215px;
 }
 .twentytwo {
-top:2315px;
+top:2297px;
 }
 .heart1 {
 margin-left:570px;
@@ -128,7 +127,7 @@ animation:none;
 .heart2 {
 position:absolute;
 left:235px;
-top:4550px;
+top:3760px;
 animation:none;
 }
 @keyframes appear {
