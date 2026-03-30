@@ -19,8 +19,8 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:180px;
-top:2070px;
+right:160px;
+top:2140px;
 z-index:-1;
 }
 .eucalyptus4 {
@@ -29,7 +29,7 @@ text-align:center;
 }
 .eucalyptus5 {
 position:absolute;
-top:4350px;
+top:4530px;
 left:570px;
 z-index:-1;
 margin-bottom:-40px;
@@ -61,7 +61,7 @@ margin-top:40px;
 main a {
 text-decoration:none;
 color:black;
-font-size:34px;
+font-size:37px;
 }
 main a:focus {
 color:gray;
@@ -83,18 +83,17 @@ text-align:center;
 margin-top:-30px;
 }
 .small {
-font-size:34px;
+font-size:44px;
 }
 .small2 {
 margin-top:-30px;
-max-width:850px;
-font-size:34px;
+max-width:900px;
+font-size:38px;
 margin-left:auto;
 margin-right:auto;
 }
 .eucalyptustime {
 margin-left:200px;
-margin-top:-50px;
 display:inline;
 }
 h4 {
@@ -108,34 +107,34 @@ animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
 .thirteen {
-font-size:30px;
-top:2658px;
+font-size:37px;
+top:2761px;
 margin-left:100px;
 }
 .fourteen {
-font-size:30px;
-top:2748px;
+font-size:37px;
+top:2863px;
 margin-left:100px;
 }
 .fifteen {
-font-size:30px;
-top:2841px;
+font-size:37px;
+top:2966px;
 margin-left:100px;
 }
 .twentytwo {
-font-size:30px;
-top:2930px;
+font-size:37px;
+top:3068px;
 margin-left:100px;
 }
 .heart1 {
-margin-left:660px;
+margin-left:760px;
 margin-top:-20px;
 }
 .final {
 position:relative;
 z-index:2;
 margin-top:150px;
-font-size:30px;
+font-size:38px;
 max-width:500px;
 margin-left:auto;
 margin-right:auto;
@@ -143,8 +142,8 @@ animation:none;
 }
 .heart2 {
 position:absolute;
-left:160px;
-top:4640px;
+left:150px;
+top:4855px;
 animation:none;
 padding-bottom:60px;
 }
@@ -168,11 +167,11 @@ font-family:verdana;
 margin-top:-10px;
 }
 .timing {
-margin-top:28px;
+margin-top:38px;
 }
 .dresscode {
 animation:none;
-font-size:30px;
+font-size:38px;
 max-width:700px;
 margin-left:auto;
 margin-right:auto;
