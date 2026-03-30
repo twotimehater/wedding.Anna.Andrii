@@ -109,22 +109,22 @@ animation-range: entry 0% cover 40%;
 }
 .thirteen {
 font-size:30px;
-top:2654px;
+top:2658px;
 margin-left:100px;
 }
 .fourteen {
 font-size:30px;
-top:2743px;
+top:2748px;
 margin-left:100px;
 }
 .fifteen {
 font-size:30px;
-top:2835px;
+top:2841px;
 margin-left:100px;
 }
 .twentytwo {
 font-size:30px;
-top:2925px;
+top:2930px;
 margin-left:100px;
 }
 .heart1 {
@@ -144,7 +144,7 @@ animation:none;
 .heart2 {
 position:absolute;
 left:235px;
-top:3760px;
+top:4660px;
 animation:none;
 }
 @keyframes appear {
