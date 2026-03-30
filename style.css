@@ -29,8 +29,11 @@ text-align:center;
 }
 .eucalyptus5 {
 position:absolute;
+top:4370px;
+left:570px;
 z-index:-1;
-
+margin-bottom:-40px;
+animation:none;
 }
 h3 {
 font-size:25px;
@@ -92,6 +95,7 @@ margin-right:auto;
 .eucalyptustime {
 margin-left:200px;
 margin-top:-50px;
+display:inline;
 }
 h4 {
 font-family:'Visby', sans-serif;
@@ -168,6 +172,9 @@ margin-top:30px;
 .dresscode {
 animation:none;
 font-size:30px;
+max-width:700px;
+margin-left:auto;
+margin-right:auto;
 }
 .dresscode2 {
 animation:none;
