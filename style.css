@@ -19,8 +19,8 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:170px;
-top:2120px;
+right:180px;
+top:2070px;
 z-index:-1;
 }
 .eucalyptus4 {
@@ -29,7 +29,7 @@ text-align:center;
 }
 .eucalyptus5 {
 position:absolute;
-top:4370px;
+top:4350px;
 left:570px;
 z-index:-1;
 margin-bottom:-40px;
@@ -134,7 +134,7 @@ margin-top:-20px;
 .final {
 position:relative;
 z-index:2;
-margin-top:200px;
+margin-top:150px;
 font-size:30px;
 max-width:500px;
 margin-left:auto;
@@ -143,9 +143,10 @@ animation:none;
 }
 .heart2 {
 position:absolute;
-left:235px;
-top:4660px;
+left:160px;
+top:4640px;
 animation:none;
+padding-bottom:60px;
 }
 @keyframes appear {
 0%{
@@ -167,7 +168,7 @@ font-family:verdana;
 margin-top:-10px;
 }
 .timing {
-margin-top:30px;
+margin-top:28px;
 }
 .dresscode {
 animation:none;
