@@ -29,10 +29,8 @@ text-align:center;
 }
 .eucalyptus5 {
 position:absolute;
-left:520px;
-top:3425px;
-width:250px;
 z-index:-1;
+
 }
 h3 {
 font-size:25px;
@@ -166,4 +164,11 @@ margin-top:-10px;
 }
 .timing {
 margin-top:30px;
+}
+.dresscode {
+animation:none;
+font-size:30px;
+}
+.dresscode2 {
+animation:none;
 }
