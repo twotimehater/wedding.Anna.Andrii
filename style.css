@@ -151,12 +151,12 @@ flex-direction:column;
 }
 .mapsbutton {
 display:block;
-    width:490px;
+    width:550px;
 text-align:center;
 background-color:#657b6c;
 padding:20px;
-border-radius:50px;
-font-size:40px;
+border-radius:55px;
+font-size:45px;
 color:#ffffff;
 font-family:'Visby', sans-serif;
 margin-left:auto;
