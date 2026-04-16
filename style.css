@@ -1,7 +1,7 @@
 body {
 background-color:#f6f5f2;
 }
-.weddinginvite  {
+.weddinginvite {
 text-align:center;
 margin-left:30px;
 }
@@ -19,8 +19,8 @@ top:50px;
 }
 .eucalyptus3 {
 position:absolute;
-right:160px;
-top:2140px;
+right:170px;
+top:2120px;
 z-index:-1;
 }
 .eucalyptus4 {
@@ -29,11 +29,8 @@ text-align:center;
 }
 .eucalyptus5 {
 position:absolute;
-top:4530px;
-left:570px;
 z-index:-1;
-margin-bottom:-40px;
-animation:none;
+
 }
 h3 {
 font-size:25px;
@@ -61,10 +58,7 @@ margin-top:40px;
 main a {
 text-decoration:none;
 color:black;
-font-size:37px;
-}
-main a:focus {
-color:gray;
+font-size:34px;
 }
 h2 {
 font-family:'Visby', sans-serif;
@@ -83,58 +77,29 @@ text-align:center;
 margin-top:-30px;
 }
 .small {
-font-size:44px;
+font-size:34px;
 }
 .small2 {
 margin-top:-30px;
-max-width:900px;
-font-size:38px;
+max-width:850px;
+font-size:34px;
 margin-left:auto;
 margin-right:auto;
 }
 .eucalyptustime {
-margin-left:190px;
+margin-left:200px;
+margin-top:-50px;
 display:inline;
 }
-h4 {
-font-family:'Visby', sans-serif;
-font-size:25px;
-position:absolute;
-top:1719px;
-left:180px;
-animation:appear 2s 1;
-animation-timeline: view();
-animation-range: entry 0% cover 40%;
-}
-.thirteen {
-font-size:37px;
-top:2761px;
-margin-left:100px;
-}
-.fourteen {
-font-size:37px;
-top:2863px;
-margin-left:100px;
-}
-.fifteen {
-font-size:37px;
-top:2966px;
-margin-left:100px;
-}
-.twentytwo {
-font-size:37px;
-top:3068px;
-margin-left:100px;
-}
 .heart1 {
-margin-left:760px;
+margin-left:660px;
 margin-top:-20px;
 }
 .final {
 position:relative;
 z-index:2;
-margin-top:150px;
-font-size:38px;
+margin-top:200px;
+font-size:30px;
 max-width:500px;
 margin-left:auto;
 margin-right:auto;
@@ -142,10 +107,9 @@ animation:none;
 }
 .heart2 {
 position:absolute;
-left:150px;
-top:4855px;
+left:235px;
+top:3760px;
 animation:none;
-padding-bottom:60px;
 }
 @keyframes appear {
 0%{
@@ -167,15 +131,43 @@ font-family:verdana;
 margin-top:-10px;
 }
 .timing {
-margin-top:38px;
+margin-top:30px;
 }
 .dresscode {
 animation:none;
-font-size:38px;
-max-width:700px;
-margin-left:auto;
-margin-right:auto;
+font-size:30px;
 }
 .dresscode2 {
 animation:none;
+}
+.eucalyptusalign {
+display:flex;
+flex-direction:column;
+}
+.eucalyptusalign h4{
+    font-family:'Visby', sans-serif;
+font-size:25px;
+animation:appear 2s 1;
+animation-timeline: view();
+animation-range: entry 0% cover 40%;
+display:flex;
+flex-direction:column;
+}
+.mapsbutton {
+display:flex;
+background-color:#657b6c;
+padding:20px;
+padding-left:0px;
+border-radius:35px;
+font-size:34px;
+color:#f6f5f2;
+font-family:'Visby', sans-serif;
+justify-content:center;
+}
+.mapsbutton:hover {
+box-shadow: 0px 0px 30px 10px #454b48;
+transition:0.5s;
+}
+.timingline {
+text-align:center;
 }
