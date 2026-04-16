@@ -2,25 +2,25 @@ body {
 background-color:#f6f5f2;
 }
 .weddinginvite {
-text-align:center;
+text-align:center; 
 margin-left:30px;
-}
+} 
 .eucalyptus {
-position:absolute;
+position:absolute; 
 left:100px;
 top:60px;
 
-}
+} 
 .eucalyptus2 {
 position:absolute;
 right:125px;
 scale:120%;
-top:50px;
+top:50px; 
 }
 .eucalyptus3 {
 position:absolute;
 right:170px;
-top:2180px;
+top:2180px; 
 z-index:-1;
 }
 .eucalyptus4 {
