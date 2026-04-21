@@ -20,7 +20,7 @@ top:50px;
 .eucalyptus3 {
 position:absolute;
 right:170px;
-top:2180px; 
+top:2210px; 
 z-index:-1;
 }
 .eucalyptus4 {
@@ -127,7 +127,7 @@ margin-top:30px;
 }
 .dresscode {
 animation:none;
-font-size:36px;
+font-size:39px;
 max-width:800px;
 display:block;
 margin-right:auto;
@@ -135,6 +135,7 @@ margin-right:auto;
 }
 .dresscode2 {
 animation:none;
+margin-bottom:5px;
 }
 .eucalyptusalign {
 display:flex;
@@ -175,8 +176,8 @@ margin-top:-20px;
 position:relative;
 z-index:2;
 margin-top:70px;
-font-size:36px;
-max-width:600px;
+font-size:39px;
+max-width:850px;
 margin-left:auto;
 margin-right:auto;
 animation:none;
