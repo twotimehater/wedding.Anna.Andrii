@@ -44,10 +44,6 @@ animation:appear 2s 1;
 animation-timeline: view();
 animation-range: entry 0% cover 40%;
 }
-span {
-border-bottom:4px dotted darkred;
-
-}
 .photo1 {
 width:930px;
 margin-left:auto;
@@ -178,9 +174,14 @@ position:relative;
 z-index:2;
 margin-top:70px;
 font-size:39px;
-max-width:850px;
+max-width:890px;
 margin-left:auto;
 margin-right:auto;
 animation:none; 
 margin-bottom:60px;
+}
+.quote {
+font-size:30px;
+float:left;
+margin-left:20px;
 }
